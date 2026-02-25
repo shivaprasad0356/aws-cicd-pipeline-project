@@ -3,7 +3,7 @@
 cd /var/www/html/app
 
 # 2. finds npm and pm2
-# Note: On Amazon Linux 2023, these are usually in /usr/bin/
+
 /usr/bin/npm install
 
 # 3. Reload or Start the application
